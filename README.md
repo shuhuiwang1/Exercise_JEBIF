@@ -10,4 +10,5 @@ This is used to test the things learned in JEBIF (workshop)
   pip list
   ```
   
+- Conda cheat sheet : info for the utilisation of conda 
   
